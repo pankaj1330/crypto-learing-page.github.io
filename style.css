@@ -98,10 +98,11 @@ h2{
     text-decoration: none;
     font-size: 1.3rem;
     color:blue;
+    background-color:orange;
     text-transform: uppercase;
 }
 .box a:hover{
-    color: rgb(209, 181, 21);
+    color: white;
     transition: all .8s;
 }
 .landingpage .image{
